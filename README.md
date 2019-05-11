@@ -13,7 +13,7 @@
 ####  具体槽点
 
 - [态度蛮横的单方面撕毁合同，赶走学生](https://github.com/woniu-daily/woniu-daily)
-- 涉嫌转招 ， 与宣传不符
+- [涉嫌转招 ， 与宣传不符](https://github.com/woniu-daily/badWoniu/blob/master/%E8%9C%97%E7%89%9B%E8%BD%AC%E6%8B%9B%E8%AF%81%E6%8D%AE.md)
 
 
 
